@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.ArtSpaceApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <!-- Set status bar color -->
+        <item name="android:statusBarColor">@color/white</item>
+        <!-- Make status bar icons dark -->
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Set background color for the app -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
